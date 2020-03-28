@@ -1,0 +1,18 @@
+body{
+				background-size:cover;
+}
+
+div{
+	text-align: left;
+	background-color: purple;
+}
+
+h1{
+	text-align: center;
+	font-family: "Time New Roman",georgia;
+	cursor: pointer;
+	font-size: 90px;
+	border: 5px dashed rgb(255,0,0);
+	text-transform: uppercase;
+	color: purple;
+}
